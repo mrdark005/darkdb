@@ -1,0 +1,30 @@
+{
+  "name": "darkdb",
+  "version": "3.4.0",
+  "description": "DarkDB V3.4 - Lightweight JSON-based database for Node.js with advanced features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "json-database",
+    "db",
+    "json",
+    "dark",
+    "darkdb"
+  ],
+  "author": "mr_dark",
+  "license": "MIT",
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "crypto": "^1.0.1",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "msgpack-lite": "^0.1.26",
+    "path": "^0.12.7",
+    "toml": "^3.0.0"
+  }
+}
